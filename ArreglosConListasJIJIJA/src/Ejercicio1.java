@@ -17,5 +17,6 @@ public class Ejercicio1 {
         System.out.println(search(numeros, 30)); // 2
         System.out.println(search(numeros, 50)); // 4
         System.out.println(search(numeros, 99)); // -1
+
     }
 }
